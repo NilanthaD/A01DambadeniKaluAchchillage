@@ -1,0 +1,82 @@
+h1{
+	border-bottom: 3px solid #006600;
+	padding: #000033;
+}
+body{
+	margin: 20px;
+	background-color:#e4f9a9;
+	text-align: justify;
+	
+}
+#wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+.navlst{
+	float: left;
+	border-right: 2px solid #bbb;
+}
+.navlst a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 50px;
+    text-decoration: none;
+}
+.navlst a:hover {
+    background-color: #111;
+}
+.nav{
+	font-size: 20px;
+	font-weight: bold;
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #006600;
+}
+.float{
+	float: left;
+	margin: 20px 20px 10px 20px;
+	border: 3px ridge #000000;
+
+}
+figure{
+	float: right;
+	margin: 20px 10px 10px 20px;
+	font-size: small;
+	text-align: center;
+}
+p {
+	text-indent: 30px;
+	margin: 10px 20px 10px 20px;
+	font-family: Arial, sans-serif;
+
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid #999999;
+    text-align: left;
+    padding: 8px;
+}
+
+#footer{
+	text-align: center;
+	font-size: small;
+	font-style: italic;
+	margin-top: 30px
+}
+.vid{
+	text-align: center;
+}
+fieldset{
+	width: 320px;
+	border: 2px rigge #ff0000;
+	padding: 10px;
+	margin-bottom: 10px;
+}
