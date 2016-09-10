@@ -74,9 +74,12 @@ td {
 .vid{
 	text-align: center;
 }
+form{
+	width: 350px;
+}
 fieldset{
 	width: 320px;
-	border: 2px rigge #ff0000;
+	border: 2px solid #999999;
 	padding: 10px;
 	margin-bottom: 10px;
 }
